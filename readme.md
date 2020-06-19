@@ -2,6 +2,11 @@
 
 ## Türkçe ekleri için java kütüphanesi
 
+![alt text](https://img.shields.io/github/issues/sarpfatma/ekler?style=for-the-badge&logo=appveyor)
+![alt text](https://img.shields.io/github/forks/sarpfatma/ekler?style=for-the-badge&logo=appveyor)
+![alt text](https://img.shields.io/github/stars/sarpfatma/ekler?style=for-the-badge&logo=appveyor)
+
+
 ### Ornek iyelik eki kullanimi
 
 ```java
